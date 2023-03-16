@@ -17,7 +17,7 @@ Just play with Javascript Dom manipulation. This project shows you whether this 
 
 ## Links
 
-- [Live Demo](https://codewithmohaimin.github.io/Greating-Time/)
+- [Live Demo](https://codewithmohaimin.github.io/Greeting-Time/)
 - [My YouTube Channel](https://www.youtube.com/@CodeWithMohaimin)
 
 ## Credits
